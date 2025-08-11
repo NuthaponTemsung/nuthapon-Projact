@@ -4,3 +4,4 @@ let x = 20
 let y = 30 
 let a = x*y 
 console.log(a)
+console.log(x+y)
